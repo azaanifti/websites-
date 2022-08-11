@@ -1,0 +1,32 @@
+:root{
+    --family: Helvetica; 
+    --bold: bold;
+    
+}
+
+body{
+
+ 
+background: url('pic-10-Elon.png') no-repeat;
+background-size:38% 960px;
+background-position: top right;
+background-color: burlywood;
+}
+
+h1{
+    font-size: 42px;
+    font-family: var(--family);
+   
+}
+
+p{
+    text-align: justify;
+    width: 40%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-family: helvetica;
+   
+}
+
+
+
